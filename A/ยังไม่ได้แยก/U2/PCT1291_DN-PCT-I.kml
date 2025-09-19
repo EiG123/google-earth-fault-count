@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PCT1291_DN-PCT-I.kml</name>
+	<Style id="line-O2-244800">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="line-O2-248000">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="line-O2-248301">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#line-O2-248000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#line-O2-244800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>PCT1291_DN-PCT-I</name>
+		<styleUrl>#line-O2-248301</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				100.3358710091861,16.45288855905666,0 100.3357580144563,16.45313359110737,0 100.3357635068309,16.45314921213296,0 100.3357747004312,16.45315810031548,0 100.3376181588188,16.45363864791343,0 100.3378994788158,16.45367494955757,0 100.3376627208008,16.45342230567903,0 100.337933389183,16.45319057455301,0 100.3391086450747,16.45432500492806,0 100.3401753283232,16.45544047526278,0 100.3405494483735,16.45579851348765,0 100.3412183687264,16.45649560855912,0 100.3413326065947,16.45595373017425,0 100.34144330881,16.45549220588884,0 100.3416195933005,16.45474698800579,0 100.3420784612282,16.45338203191742,0 100.3426675813248,16.45214826690172,0 100.3433131083328,16.45112058568836,0 100.3436482536051,16.45066997522611,0 100.3442462356839,16.44991636891456,0 100.345058774998,16.4489192133768,0 100.345397911901,16.44844714033288,0 100.3457098277936,16.44803843795963,0 100.3458315270726,16.44813976378484,0 100.3460131414217,16.44798401407435,0 100.346225895192,16.44794846856686,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

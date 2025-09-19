@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SKT2591_DN-SKT8528_DN.kml</name>
+	<StyleMap id="msn_ylw-pushpin30010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2920</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin23100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin23100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2920">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>SKT2591_DN-SKT8528_DN</name>
+		<snippet></snippet>
+		<styleUrl>#msn_ylw-pushpin30010</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					99.70468002004378,17.05757483884475,0 99.70465119990614,17.05591885890249,0 99.67935468283228,17.05363797181711,0 99.67067474911222,17.05267171158784,0 99.65176816277483,17.04043534829896,0 99.64871629161368,17.04335461346308,0 99.63477387398589,17.03484563045576,0 99.62547478193511,17.03027019318466,0 99.6154620262654,17.02790308642937,0 99.59492743939718,17.01704794189798,0 99.59375511751738,17.01668951494887,0 99.57665029344928,17.00851725848744,0 99.57175451647861,17.00735033429251,0 99.57081370628286,17.01366345938422,0 99.57367463511422,17.01506667974198,0 
+				</coordinates>
+			</LineString>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					99.70457282577556,17.05581375347588,0 99.70463214078822,17.05769262248255,0 99.74319517053394,17.06133336903077,0 99.75844003055133,17.06248659154156,0 99.77045738944717,17.06479006798413,0 99.78742119487666,17.06800451841122,0 99.79465776671572,17.06951032262529,0 99.80838093400392,17.07199896940723,0 99.8143686938661,17.07317408366555,0 99.82074200890082,17.07362852840644,0 99.82527445520407,17.07351720133625,0 99.82907719653737,17.07333923527705,0 99.82925173173702,17.07340262848722,0 99.83010586263416,17.07348481304969,0 99.83078719425639,17.07447935510949,0 99.83157647342493,17.07449468219588,0 99.83184354003896,17.07367981072246,0 99.83480877424101,17.07364217797048,0 99.8368304391489,17.07369222017338,0 99.8370654581641,17.07282103371754,0 99.83854081571043,17.07285650440222,0 99.83919882953271,17.07275701183491,0 99.83953120584749,17.07087467201773,0 99.84021702913665,17.06641455326619,0 99.84068625101716,17.06631069384325,0 99.8406901039274,17.06565554372882,0 99.84079644783564,17.06561834119969,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

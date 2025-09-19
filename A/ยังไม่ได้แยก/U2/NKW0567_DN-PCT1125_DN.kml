@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NKW0567_DN-PCT1125_DN.kml</name>
+	<Style id="dir_step220">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="dir_step30">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.gstatic.com/mapfiles/kml/paddle/pause.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<div>$[description]</div><div>$[geDirections]</div>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="dir_step80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#dir_step30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#dir_step220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>NKW0567_DN-PCT1125_DN</name>
+		<styleUrl>#dir_step80</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				100.5810912497603,16.16649695354278,0 100.6209801967377,16.15038453018447,0 100.62045203857,16.1419829187856,0 100.6249294656027,16.12569402048286,0 100.6223727558204,16.09480288683415,0 100.6250995719808,16.07570986247108,0 100.630008806402,16.05084809464541,0 100.6299695953214,16.03905070463674,0 100.6297665544837,16.03096099894043,0 100.6281917798595,15.99761037069027,0 100.6281064684043,15.98410375556589,0 100.6102580085325,15.91926579460809,0 100.6057743067025,15.9083018797306,0 100.6043910180981,15.86969313014489,0 100.6043925354334,15.8277076260514,0 100.6100369908315,15.80194086068512,0 100.5909136574495,15.73707978821038,0 100.5846521705188,15.71315778908176,0 100.5815212784217,15.66933316536778,0 100.5793537227245,15.64935271187393,0 100.5792225254661,15.63697090817072,0 100.5732891436149,15.62406053316956,0 100.5462595524704,15.636370475292,0 100.5281322975962,15.64627435153098,0 100.5158211891164,15.64627720966191,0 100.4835302039297,15.63947324409819,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

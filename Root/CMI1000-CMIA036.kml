@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CMI1000-CMIA036.kml</name>
+	<Style id="style">
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style0">
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="stylemap_id67">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>CMI1000-CMIA036</name>
+		<styleUrl>#stylemap_id67</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				98.9651290391551,18.80048706045496,0 98.96527554037718,18.80050320161189,0 98.96557328650704,18.79980866230513,0 98.96568063058919,18.79970645480939,0 98.96716442388498,18.7995029074724,0 98.96699761759835,18.79912375091146,0 98.96642162933503,18.79755735875987,0 98.9660529479343,18.79660543658103,0 98.96568704339168,18.79559112735776,0 98.9648538084267,18.79339225882984,0 98.96376836528633,18.79038076920497,0 98.96396971652857,18.79031521034347,0 98.96395647351032,18.78982960254676,0 98.96622509037944,18.78943668569099,0 98.96886550290382,18.78917243941143,0 98.97038145448097,18.78901903745107,0 98.97762420891502,18.78881618043845,0 98.97736111236163,18.78142714219899,0 98.97633015948544,18.77518163708187,0 98.97600353063491,18.77268424676539,0 98.97635158026051,18.77265914226792,0 98.97627974840242,18.7721810937349,0 98.97767205811738,18.77282373743353,0 98.97720443854726,18.77392177601227,0 98.97695617824031,18.77390300916224,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
